@@ -1,5 +1,5 @@
-<a href="">
-  <img src="" alt="Fallout GIF" style="width:auto; height:auto" />
+<a href="https://github.com/VedantBudhabaware/VedantBudhabaware/blob/main/gif/1212.gif">
+  <img src="https://github.com/VedantBudhabaware/VedantBudhabaware/blob/main/gif/1212.gif" alt="Fallout GIF" style="width:auto; height:auto" />
 </a>
 
 <h1 align="center">Namaste 🙏, I'm Vedant Budhabaware</h1>
@@ -14,6 +14,8 @@
     <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/VedantBudhabaware?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
 </div>
 
+<img align="right" alt="coding-gif" width="400" src="https://github.com/VedantBudhabaware/VedantBudhabaware/blob/main/gif/transparent_gitgif.gif" />
+
 <h3 align="left">💫 About Me</h3>
 <p>
   🌱 I am currently working on and developing my programming skills.<br>
@@ -21,16 +23,16 @@
   💬 Skills I acquire in programming languages such as C++, SQL.<br>
   ⚡ Interest in AI/ML, Data Science, Blockchain Development, etc.<br>
 </p>
+<br />
+<br />
 
-<img align="left" alt="coding-gif" width="400" src="" />
-
-<h3>🧲 Connect with Me:</h3>
-<div align="center">
+<h3 align="left">🧲 Connect with Me:</h3>
+<div align="left">
   <!-- <a href="mailto:"><img width="55px" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a> -->
   <a href="https://www.linkedin.com/in/vedantbudhabaware" target="_blank"><img width="55px" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 </div>
 
-
+<hr>
 <!-- Languages & Tools -->
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
@@ -39,6 +41,7 @@
   <img src="https://skillicons.dev/icons?i=git,javascript,mysql,cpp,express,figma" /><br>
 </div>
 
+<hr>
 <h3 align="center">🌱 GitHub Status</h3>
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VedantBudhabaware&show_icons=true&theme=nord&locale=en&layout=compact" alt="vedantbudhabaware" /></p>
