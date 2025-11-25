@@ -1,8 +1,15 @@
 <a href="https://github.com/VedantBudhabaware/VedantBudhabaware/blob/main/gif/1212.gif">
-  <img src="https://github.com/VedantBudhabaware/VedantBudhabaware/blob/main/gif/1212.gif" alt="Fallout GIF" style="width:auto; height:auto" />
+  <img src="https://github.com/VedantBudhabaware/VedantBudhabaware/blob/main/gif/1212.gif" alt="Fallout GIF" width="100%" height="50%" />
 </a>
 
 <h1 align="center">Namaste 🙏, I'm Vedant Budhabaware</h1>
+
+<p align="center">I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming
+skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a
+solid foundation in software development while actively exploring emerging technologies. I am particularly passionate
+about Artificial Intelligence and Machine Learning.</p>
+
+<br />
 
 <div align="center">
   <!-- Profile Views -->
@@ -16,23 +23,27 @@
 
 <img align="right" alt="coding-gif" width="400" src="https://github.com/VedantBudhabaware/VedantBudhabaware/blob/main/gif/transparent_gitgif.gif" />
 
+<br />
+
 <h3 align="left">💫 About Me</h3>
+<br />
 <p>
   🌱 I am currently working on and developing my programming skills.<br>
   🔭 I worked on React Framework and Hands on experience in Full Stack.<br>
   💬 Skills I acquire in programming languages such as C++, SQL.<br>
   ⚡ Interest in AI/ML, Data Science, Blockchain Development, etc.<br>
+  👥 Open to collaboration.<br>
 </p>
 <br />
 <br />
 
 <h3 align="left">🧲 Connect with Me:</h3>
+<br />
 <div align="left">
-  <!-- <a href="mailto:"><img width="55px" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a> -->
+  <a href="mailto:"><img width="55px" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/vedantbudhabaware" target="_blank"><img width="55px" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 </div>
 
-<hr>
 <!-- Languages & Tools -->
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
@@ -41,14 +52,21 @@
   <img src="https://skillicons.dev/icons?i=git,javascript,mysql,cpp,express,figma" /><br>
 </div>
 
-<hr>
+
 <h3 align="center">🌱 GitHub Status</h3>
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VedantBudhabaware&show_icons=true&theme=nord&locale=en&layout=compact" alt="vedantbudhabaware" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VedantBudhabaware&show_icons=true&theme=nord&locale=en" alt="vedantbudhabaware" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantbudhabaware&show_icons=true&locale=en&layout=compact" alt="vedantbudhabaware" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantbudhabaware&theme=nord" alt="vedantbudhabaware" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VedantBudhabaware&theme=nord" alt="vedantbudhabaware" /></p>
 </div>
+
+<br />
+
+<a href="https://github.com/VedantBudhabaware/VedantBudhabaware/blob/main/gif/footer%20banner.gif">
+  <img src="https://github.com/VedantBudhabaware/VedantBudhabaware/blob/main/gif/footer%20banner.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
+</a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
